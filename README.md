@@ -7,6 +7,6 @@ A small shell made in C.
     Execute binaries (supports PATH in env)
     exit function
 
-# compilation:
+compilation:
 
     make re
